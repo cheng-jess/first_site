@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(0, 73, 101);
+    font-family: "Comic Sans MS";
+    color: white;
+}
+h2{
+    color: rgb(255, 204, 0);
+    font-size: 48pt;
+    text-align: center;
+}
